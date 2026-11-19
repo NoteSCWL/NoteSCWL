@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E879C5,50:D66BC1,100:8A5CF6&height=200&section=header&text=Zickiel's%20Portfolio&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Java%20Programming%20Repository&descAlignY=58&descSize=16" width="100%" />
+</div>
+
+<div align="center">
 
 <a href="https://github.com/NoteSCWL">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=D66BC1&center=true&vCenter=true&width=650&height=60&lines=Welcome+to+my+GitHub+Profile!;Java+Programming+Portfolio;Learning+%E2%80%A2+Coding+%E2%80%A2+Creating;Always+Improving+My+Skills." alt="Typing SVG" />
