@@ -16,6 +16,12 @@
 
 > A collection of my programming activities, laboratory exercises, and projects.
 
+![Java](https://img.shields.io/badge/Java-D66BC1?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-8A5CF6?style=for-the-badge&logo=github&logoColor=white)
+
+![Learning](https://img.shields.io/badge/Currently-Learning-E879C5?style=for-the-badge)
+
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
 
