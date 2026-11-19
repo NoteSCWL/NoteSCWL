@@ -5,9 +5,10 @@
 
 <div align="center">
 
-<a href="https://github.com/NoteSCWL">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=D66BC1&center=true&vCenter=true&width=650&height=60&lines=Welcome+to+my+GitHub+Profile!;Java+Programming+Portfolio;Learning+%E2%80%A2+Coding+%E2%80%A2+Creating;Always+Improving+My+Skills." alt="Typing SVG" />
-</a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E879C5&center=true&vCenter=true&width=650&height=60&lines=Welcome+to+my+GitHub!;Java+Programming+Portfolio;Learning+%E2%80%A2+Coding+%E2%80%A2+Creating" />
+</div>
+
 
 </div>
 
