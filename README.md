@@ -16,12 +16,6 @@
 
 > A collection of my programming activities, laboratory exercises, and projects.
 
-![Java](https://img.shields.io/badge/Java-D66BC1?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-8A5CF6?style=for-the-badge&logo=github&logoColor=white)
-
-![Learning](https://img.shields.io/badge/Currently-Learning-E879C5?style=for-the-badge)
-
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
 
@@ -64,3 +58,8 @@ This repository was created because ma'am told us to do so, this is for all my c
 **Created by:** Jan Zickiel
 
 **1ST YEAR 2026-2027**
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E879C5,50:D66BC1,100:8A5CF6&height=100&section=footer" width="100%" />
+</div>
+
