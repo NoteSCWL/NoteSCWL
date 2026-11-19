@@ -24,7 +24,7 @@
        alt="Profile Picture">
 </p>
 
-╰(*°▽°*)╯
+# ╰(*°▽°*)╯
 
 ## 📌 About me and my repository
 
