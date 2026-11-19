@@ -25,11 +25,10 @@ This repository was created because ma'am told us to do so, this is for all my c
 
 ## 📂 Repository Contents
 
-| Folder |
-|---|
-| [Files](./Files/) |
-| [Midterms](./Midterms/) |
-| [Finals](./Finals/) |
+
+- [Files](./Files/) 
+- [Midterms](./Midterms/) 
+- [Finals](./Finals/) 
 
 ---
 ## ⚡ Fun Fact About Me:
