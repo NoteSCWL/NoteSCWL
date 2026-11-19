@@ -9,6 +9,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E879C5&center=true&vCenter=true&width=650&height=60&lines=Welcome+to+my+GitHub!;Java+Programming+Portfolio;Learning+%E2%80%A2+Coding+%E2%80%A2+Creating" />
 </div>
 
+<table>
+<tr>
+<td width="10%" align="center">
+<img src="YOUR_LEFT_IMAGE" width="60">
+</td>
+
+<td width="80%" align="center">
+
+## About Me
+
+Welcome to my programming portfolio!
+
+</td>
+
+<td width="10%" align="center">
+<img src="YOUR_RIGHT_IMAGE" width="60">
+</td>
+</tr>
+</table>
 
 </div>
 
