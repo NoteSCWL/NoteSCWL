@@ -27,9 +27,9 @@ This repository was created because ma'am told us to do so, this is for all my c
 
 | Folder |
 |---|
-| Activities |
-| Laboratory |
-| Projects |
+| Files |
+| Midterms |
+| Finals |
 
 ---
 ## ⚡ Fun Fact About Me:
