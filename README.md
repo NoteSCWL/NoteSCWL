@@ -29,7 +29,6 @@ Welcome to my programming portfolio!
 </tr>
 </table>
 
-</div>
 
 # ☕ Java Programming Repository
 
