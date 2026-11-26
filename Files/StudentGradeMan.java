@@ -71,7 +71,8 @@ public class StudentGradeMan {
         System.out.println("Input Student Course: ");
         String course = sc.nextLine();
 
-
+        System.out.println("----------------------------------STUDENT INFO--------------------------------");
+        System.out.println("------------------------------------------------------------------------------");
         studInfo(sn, name, yl, course);
         System.out.println("------------------------------------------------------------------------------");
         System.out.print("Input grade 1: ");
@@ -92,5 +93,7 @@ public class StudentGradeMan {
         double avg = getAverage(gr1, gr2, gr3);
         displayResult(avg);
         getEquiv(getAverage(gr1, gr2, gr3), choice);
+        
+        sc.close();
     } 
 }
